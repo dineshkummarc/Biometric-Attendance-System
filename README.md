@@ -54,6 +54,7 @@ To get started with the biometric attendance system, follow the steps below:
 
 - Install the libraries provided in the Arduino IDE. These libraries are required for uploading the code to the ESP8266 NodeMCU.
 - Make sure that the ESP8266 boards are available in the Arduino IDE.
+
 **Note**: you can find neccassry libraries [here](Libraries).
 
 6. Upload the Code to ESP8266 NodeMCU
@@ -77,14 +78,13 @@ To get started with the biometric attendance system, follow the steps below:
 
 ## Components
 
-- 1 * Arduino Nano
-- 1 * MAX30102
-- 1 * LCD 16*2
-- 1 * Potentiometer 10K
+- 1 * ESP8266 NodeMCU
+- 1 * R307 Fingerprint Sensor
+- 1 * OLED Graphic Display 128x64 Serial I2C 0.96 inch
 
 ## Circuit
 
-![Circuit Diagram](Circuit.png)
+![Circuit Diagram](Circuit.PNG)
 
 ## Usage
 
