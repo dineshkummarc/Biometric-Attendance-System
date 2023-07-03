@@ -24,7 +24,7 @@ To get started with the biometric attendance system, follow the steps below:
 2. Assemble & Components
 	- Assemble according to this circuit diagram:
 
-![Circuit Diagram](Circuit.PNG)
+	![Circuit Diagram](Circuit.PNG)
 
 	- Components:
 		- 1 * ESP8266 NodeMCU
@@ -111,6 +111,7 @@ The biometric attendance system offers several uses and applications across vari
 We would like to acknowledge the following resources and libraries that have been instrumental in developing Kids Learning Program:
 
 - **[Arduino IDE](https://www.arduino.cc/en/software)**:  An open-source integrated development environment (IDE) used for programming Arduino boards.
+- **ESP8266 NodeMCU**: An open-source development board that combines the ESP8266 Wi-Fi module with a microcontroller unit (MCU). It provides an easy and cost-effective way to add Wi-Fi connectivity to your projects and is widely used in IoT (Internet of Things) applications.
 - **[XAMPP](https://www.apachefriends.org/download.html)**: An open-source software package that provides a complete web development environment. It includes Apache, MySQL, PHP, and Perl, making it easy to set up and configure a local web server for development and testing purposes. XAMPP simplifies the process of creating dynamic web applications and allows you to work on projects offline before deploying them to a production server.
 - **[Adafruit GFX Library](Libraries/Adafruit-GFX-Library-master.zip)**: The Adafruit GFX Library is a graphics library developed by Adafruit Industries. It provides a set of functions and utilities for drawing shapes, text, and images on various display devices, including LCDs, OLEDs, and TFT screens
 - **[Adafruit Fingerprint Sensor Library](Libraries/Adafruit-Fingerprint-Sensor-Library-master.zip)**: The Adafruit Fingerprint Sensor Library is a library specifically designed for interfacing with fingerprint sensors manufactured by Adafruit. This library simplifies the process of capturing and processing fingerprint data, enabling secure fingerprint authentication and identification in Arduino or microcontroller-based projects
