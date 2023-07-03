@@ -90,7 +90,7 @@ To get started with the biometric attendance system, follow the steps below:
 - **Easy Installation and Setup**: The project provides step-by-step instructions for installation and setup, ensuring a smooth setup process for users.
 - **Open-Source and Customizable**: The project is open-source, allowing users to modify and enhance the system according to their specific requirements. The code is provided for further customization and expansion.
 
-## Configurations
+## Configuration
 
 The biometric attendance system offers several uses and applications across various domains:
 
