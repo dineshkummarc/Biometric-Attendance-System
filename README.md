@@ -78,7 +78,7 @@ To get started with the biometric attendance system, follow the steps below:
 1. Once the database is created, you can start adding and deleting people's fingerprints and monitor their attendance and departure.
 2. Open the following link in your web browser: http://192.168.29.200/biometricattendance/index.php
 
-**Note**: this IP is my own you can modify it according to your needs and if you need a step by step guidence with images you will find it **[hear](Getting%20Started.pdf)**.
+**Note**: this IP is my own you can modify it according to your needs and if you need a step by step guidence with images you will find it **[here](Getting%20Started.pdf)**.
 
 ## Features
 
@@ -106,10 +106,6 @@ The biometric attendance system offers several uses and applications across vari
 - **Manufacturing and Industrial Facilities**: Biometric attendance systems can be utilized in manufacturing and industrial settings to monitor employee attendance and manage shift schedules. It helps in maintaining a record of work hours and ensures appropriate staffing levels.
 - **Security Access Control**: The system can also be integrated with access control systems to provide secure entry and exit for authorized individuals. It enhances overall security by restricting access to designated areas based on fingerprint authentication.
 
-## Contributing
-
-Thank you for considering contributing to the Biometric Attendance System! We welcome any contributions that can enhance the program and make it even better.
-
 ## Acknowledgments
 
 
@@ -120,6 +116,10 @@ We would like to acknowledge the following resources and libraries that have bee
 - **[Adafruit GFX Library](Libraries/Adafruit-GFX-Library-master.zip)**: The Adafruit GFX Library is a graphics library developed by Adafruit Industries. It provides a set of functions and utilities for drawing shapes, text, and images on various display devices, including LCDs, OLEDs, and TFT screens
 - **[Adafruit Fingerprint Sensor Library](Libraries/Adafruit-Fingerprint-Sensor-Library-master.zip)**: The Adafruit Fingerprint Sensor Library is a library specifically designed for interfacing with fingerprint sensors manufactured by Adafruit. This library simplifies the process of capturing and processing fingerprint data, enabling secure fingerprint authentication and identification in Arduino or microcontroller-based projects
 - **[Adafruit SSD1306](Libraries/Adafruit_SSD1306-master.zip)**: The Adafruit SSD1306 library is another library developed by Adafruit Industries. It is designed for controlling SSD1306-based OLED displays, which are small monochrome screens with high contrast and low power consumption.
+
+## Contributing
+
+Thank you for considering contributing to the Biometric Attendance System! We welcome any contributions that can enhance the program and make it even better.
 
 ## License
 
