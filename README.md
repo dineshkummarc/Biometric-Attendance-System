@@ -8,7 +8,6 @@ This project is a biometric attendance system that utilizes the R307 fingerprint
 - [Usage](#usage)
 - [Features](#features)
 - [Configuration](#configuration)
-- [Documentation](#documentation)
 - [Acknowledgments](#acknowledgments)
 - [Contributing](#contributing)
 - [License](#license)
